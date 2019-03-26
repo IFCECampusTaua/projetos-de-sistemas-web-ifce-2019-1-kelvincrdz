@@ -1,0 +1,24 @@
+body{
+
+	font-family: Arial;
+}
+
+table{
+
+	border: 1px;
+	border-color: : #DDDDDD;
+}
+
+.num1{
+	color:#003366;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.time{
+	font-size: 13px;
+	color: #999999;
+	font-weight: bold;
+	text-align: 
+}
