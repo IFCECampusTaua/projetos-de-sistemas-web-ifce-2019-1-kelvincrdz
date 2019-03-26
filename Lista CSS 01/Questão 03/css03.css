@@ -7,6 +7,7 @@ table{
 
 	border: 1px;
 	border-color: : #DDDDDD;
+	background-color: #F7F7F7;
 }
 
 .num1{
@@ -16,9 +17,33 @@ table{
 	text-align: center;
 }
 
-.time{
+
+.num{
 	font-size: 13px;
 	color: #999999;
 	font-weight: bold;
-	text-align: 
+	text-align: left;
+}
+
+.time{
+	font-size: 14px
+	color: #666666;
+	font-weight: bold;
+	text-align: left;
+}
+
+.b{
+	font-size: 14px
+	color: black;
+	font-weight: bold;
+	text-align: center;
+
+}
+
+.a{
+	font-size: 14px
+	color: #666666;
+	font-weight: normal;
+	text-align: center;
+
 }
